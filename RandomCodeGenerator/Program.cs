@@ -68,14 +68,14 @@ else
             switch(response.ToLower())
             {
                 case "4":
-                    code = OTPCreateor.Create(0000, 9999);
+                    code = OTPCreator.Create(0000, 9999);
                     Console.WriteLine();
                     Console.WriteLine("OTP number= " + code);
                     Console.WriteLine();
                     Console.WriteLine("Length of the code: " + code.Length);
                     break;
                 case "5":
-                    code = OTPCreateor.Create(00000, 99999);
+                    code = OTPCreator.Create(00000, 99999);
 
                     Console.WriteLine();
                     Console.WriteLine("OTP number= " + code);
@@ -83,7 +83,7 @@ else
                     Console.WriteLine("Length of the code: " + code.Length);
                     break;
                 case "6":
-                    code = OTPCreateor.Create(00000, 999999);
+                    code = OTPCreator.Create(00000, 999999);
                     Console.WriteLine();
                     Console.WriteLine("OTP number= " + code);
                     Console.WriteLine();

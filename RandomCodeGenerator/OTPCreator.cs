@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RandomCodeGenerator
 {
-    internal class OTPCreateor
+    internal class OTPCreator
     {
         public static string Create(int from, int to)
         {
