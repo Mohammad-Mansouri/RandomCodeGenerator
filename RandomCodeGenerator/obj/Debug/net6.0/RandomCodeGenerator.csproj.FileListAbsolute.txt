@@ -1,0 +1,14 @@
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net6.0\RandomCodeGenerator.exe
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net6.0\RandomCodeGenerator.deps.json
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net6.0\RandomCodeGenerator.runtimeconfig.json
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net6.0\RandomCodeGenerator.dll
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net6.0\RandomCodeGenerator.pdb
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\RandomCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\RandomCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\RandomCodeGenerator.AssemblyInfo.cs
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\RandomCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\RandomCodeGenerator.dll
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\refint\RandomCodeGenerator.dll
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\RandomCodeGenerator.pdb
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\RandomCodeGenerator.genruntimeconfig.cache
+C:\Users\MohammadMansouri\source\repos\P-GitHub\RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net6.0\ref\RandomCodeGenerator.dll
